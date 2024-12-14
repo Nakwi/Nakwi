@@ -41,7 +41,22 @@
   </a>  
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
-  </a>  
+  </a>
+  <a href="https://www.pfsense.org/" target="_blank">
+    <img style="margin: 10px" src="https://i.goopics.net/f6vt8h.png" alt="Azure" height="50" />
+  </a>
+  <a href="https://glpi-project.org/fr/" target="_blank">
+    <img style="margin: 10px" src="https://i.goopics.net/pznbdu.png" alt="Azure" height="50" />
+  </a>
+   <a href="https://www.home-assistant.io/" target="_blank">
+    <img style="margin: 10px" src="https://i.goopics.net/kkut5e.png" alt="Azure" height="50" />
+  </a>
+  <a href="https://www.microsoft.com/fr-fr/windows-server" target="_blank">
+    <img style="margin: 10px" src="https://i.goopics.net/pe5ri8.png" alt="Azure" height="50" />
+  </a>
+   <a href="https://fr.wikipedia.org/wiki/ZigBee" target="_blank">
+    <img style="margin: 10px" src="https://i.goopics.net/h4kugh.png" alt="Azure" height="50" />
+  </a>
 </div>
 
 ---

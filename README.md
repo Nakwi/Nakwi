@@ -79,7 +79,3 @@
 </div>  
 
 ---
-
-<div align="center">
-Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a>
-</div>

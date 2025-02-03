@@ -74,8 +74,9 @@
 ---
 
 ### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakwi&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nakwi&show_icons=true&theme=radical" alt="Stats GitHub" style="width="50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakwi&hide=javascript,html&theme=radical" alt="Langues principales" style="width="50%;">
+</div>
 
 ---

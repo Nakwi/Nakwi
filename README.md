@@ -1,82 +1,52 @@
-<div align="center">
-  <img src="https://i.goopics.net/pfv52q.gif" align="center" style="width: 100%" />
-</div>  
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
----
-
-### <div align="center">Hi there! I'm Ryan 👨‍💻  
-🚀 *IT Specialist passionate about Networks, Automation, and Development.*</div>  
-
----
-
-### 🌟 About Me  
-- 🇫🇷 I'm from **France** and currently studying **Computer Science**.  
-- 💡 I love exploring and working with a wide range of **technologies** to deepen my knowledge.  
-- 🔭 I'm also passionate about **astronomy**, spending my free time stargazing and learning about the universe.  
-
----
-
-### 🛠️ My Skill Set  
-<div align="center">
-  <a href="https://github.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>  
-  <a href="https://www.docker.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-  </a>  
-  <a href="https://mariadb.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" />
-  </a>  
-  <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  </a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-  </a>  
-  <a href="https://www.linux.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  </a>  
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-  </a>  
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
-  </a>
-  <a href="https://www.pfsense.org/" target="_blank">
-    <img style="margin: 10px" src="https://i.goopics.net/f6vt8h.png" alt="Azure" height="50" />
-  </a>
-  <a href="https://glpi-project.org/fr/" target="_blank">
-    <img style="margin: 10px" src="https://i.goopics.net/pznbdu.png" alt="Azure" height="50" />
-  </a>
-   <a href="https://www.home-assistant.io/" target="_blank">
-    <img style="margin: 10px" src="https://i.goopics.net/kkut5e.png" alt="Azure" height="50" />
-  </a>
-  <a href="https://www.microsoft.com/fr-fr/windows-server" target="_blank">
-    <img style="margin: 10px" src="https://i.goopics.net/pe5ri8.png" alt="Azure" height="50" />
-  </a>
-   <a href="https://fr.wikipedia.org/wiki/ZigBee" target="_blank">
-    <img style="margin: 10px" src="https://i.goopics.net/h4kugh.png" alt="Azure" height="50" />
-  </a>
-</div>
-
----
-
-### 🌐 Connect with Me  
-<div align="center">
+<p align="center">
   <a href="https://github.com/Nakwi" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>  
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="30" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/ryan-corsyn-77b553235" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-</div>
+</p>
+
+<!-- Bannière personnalisée -->
+<p align="center">
+  <img src="https://i.goopics.net/pfv52q.gif" alt="Banner" style="width: 100%;" />
+</p>
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 👨‍💻 I'm an **IT Specialist** passionate about **Networks, Automation & Development**.
+- 🇫🇷 I'm from **France** and currently pursuing studies in **Computer Science**.
+- 🔭 I also love exploring the **universe** and spend my free time stargazing.
+- 💡 Forever curious, I enjoy experimenting with a wide range of **technologies**.
 
 ---
 
-### 📊 GitHub Stats  
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nakwi&show_icons=true&theme=radical" alt="Stats GitHub" style="width="50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakwi&hide=javascript,html&theme=radical" alt="Langues principales" style="width="50%;">
-</div>
+### 🧰 Tech I Work On:
+<p align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="55" height="55" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="55" height="55" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" width="55" height="55" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="55" height="55" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="55" height="55" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="55" height="55" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" width="55" height="55" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" width="55" height="55" style="margin: 10px;" />
+  <img src="https://i.goopics.net/f6vt8h.png" alt="pfSense" width="55" height="55" style="margin: 10px;" />
+  <img src="https://i.goopics.net/pznbdu.png" alt="GLPI" width="55" height="55" style="margin: 10px;" />
+  <img src="https://i.goopics.net/kkut5e.png" alt="Home Assistant" width="55" height="55" style="margin: 10px;" />
+  <img src="https://i.goopics.net/pe5ri8.png" alt="Windows Server" width="55" height="55" style="margin: 10px;" />
+  <img src="https://i.goopics.net/h4kugh.png" alt="ZigBee" width="55" height="55" style="margin: 10px;" />
+</p>
 
 ---
+
+### 📊 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nakwi&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" style="margin: 0 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakwi&hide=javascript,html&theme=radical" alt="Top Languages" width="48%" style="margin: 0 1%;" />
+</p>
+
+---
+
+

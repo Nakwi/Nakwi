@@ -26,37 +26,36 @@ Je crois au **learning by doing** : chaque concept étudié est testé dans mon 
 - Déploiement de services auto-hébergés via **Docker & Docker Compose**
 - Apprentissage des **technologies cloud** (Azure, principes IaC)
 - Implémentation de bonnes pratiques en **segmentation réseau & sécurité**
-- Exploration des outils de **monitoring & observabilité**
+- Exploration des outils de **monitoring & observabilité** (Zabbix, Centreon, CheckMK)
 
 ## 🛠️ Technologies & Outils
 
 ### Systèmes & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
 ### Réseau & Sécurité
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-005F73?style=flat-square&logo=wireguard&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=flat-square&logo=security&logoColor=white)
 
 ### Conteneurs & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### Automatisation & Scripting
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+### Monitoring & Supervision
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white)
+![Centreon](https://img.shields.io/badge/Centreon-00A1E0?style=flat-square&logo=centreon&logoColor=white)
+![CheckMK](https://img.shields.io/badge/CheckMK-13B5EA?style=flat-square&logo=checkmk&logoColor=white)
 
 ### Bases de données & Outils IT
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![GLPI](https://img.shields.io/badge/GLPI-6C5CE7?style=flat-square&logo=glpi&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)

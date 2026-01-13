@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-corsyn-77b553235)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nakwi)
 
-*Apprendre en pratiquant, un serveur à la fois.*
 
 </div>
 
@@ -93,7 +92,7 @@ Comprendre comment les systèmes fonctionnent, optimiser les processus et constr
 - **LinkedIn :** [ryan-corsyn-77b553235](https://linkedin.com/in/ryan-corsyn-77b553235)
 - **GitHub :** [@Nakwi](https://github.com/Nakwi)
 
-Ouvert aux discussions sur les projets d'infrastructure, les défis d'automatisation ou le partage d'expériences homelab.
+
 
 ---
 

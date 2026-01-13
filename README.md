@@ -1,64 +1,84 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# 👋 Hi, I'm Ryan (Nakwi)
 
 <p align="center">
-  <a href="https://github.com/Nakwi" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="30" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/ryan-corsyn-77b553235" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  <a href="https://github.com/Nakwi">
+    <img src="https://img.shields.io/badge/GitHub-Nakwi-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/ryan-corsyn-77b553235">
+    <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Corsyn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-<!-- Bannière personnalisée -->
 <p align="center">
-  <img src="https://i.goopics.net/pfv52q.gif" alt="Banner" style="width: 100%;" />
-</p>
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 👨‍💻 I'm an **IT Specialist** passionate about **Networks, Automation & Development**.
-- 🇫🇷 I'm from **France** and currently pursuing studies in **Computer Science**.
-- 🔭 I also love exploring the **universe** and spend my free time stargazing.
-- 💡 Forever curious, I enjoy experimenting with a wide range of **technologies**.
-
----
-
-### 🧰 Tech I Work On:
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="55" height="55" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="55" height="55" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" width="55" height="55" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="55" height="55" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="55" height="55" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="55" height="55" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" width="55" height="55" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" width="55" height="55" style="margin: 10px;" />
-  <img src="https://i.goopics.net/f6vt8h.png" alt="pfSense" width="55" height="55" style="margin: 10px;" />
-  <img src="https://i.goopics.net/pznbdu.png" alt="GLPI" width="55" height="55" style="margin: 10px;" />
-  <img src="https://i.goopics.net/kkut5e.png" alt="Home Assistant" width="55" height="55" style="margin: 10px;" />
-  <img src="https://i.goopics.net/pe5ri8.png" alt="Windows Server" width="55" height="55" style="margin: 10px;" />
-  <img src="https://i.goopics.net/h4kugh.png" alt="ZigBee" width="55" height="55" style="margin: 10px;" />
+  <img src="https://i.goopics.net/pfv52q.gif" alt="banner" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
-<div align="center">
-  <a href="https://github.com/Nakwi" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>  
-  <a href="https://linkedin.com/in/ryan-corsyn-77b553235" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-</div>
+## 🧑‍💻 About Me
+
+🎓 **IT Infrastructure & Cloud Student (France)**  
+🛠️ Passionate about **systems, networks, automation & self-hosting**  
+🚀 Building real-world projects through **homelabs & tooling**  
+🌌 Astronomy enthusiast — curiosity doesn’t stop at Earth
+
+I enjoy designing **reliable, secure and automated infrastructures**, from bare metal to containers, always with a strong focus on **learning by doing**.
 
 ---
 
-### 📊 My GitHub Stats:
+## 🧠 What I Focus On
+
+- 🖥️ **System & Network Administration**
+- 🐳 **Containerization & Virtualization**
+- ⚙️ **Automation (scripts, tooling, infra logic)**
+- 🔐 **Security & good practices**
+- 🏠 **Homelab & self-hosted services**
+
+---
+
+## 🧰 Technologies & Tools
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakwi&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" style="margin: 0 1%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakwi&hide=javascript,html&theme=radical" alt="Top Languages" width="48%" style="margin: 0 1%;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" width="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" width="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" width="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" width="45"/>
+  <img src="https://i.goopics.net/f6vt8h.png" width="45"/>
+  <img src="https://i.goopics.net/pznbdu.png" width="45"/>
+  <img src="https://i.goopics.net/kkut5e.png" width="45"/>
+  <img src="https://i.goopics.net/pe5ri8.png" width="45"/>
 </p>
 
 ---
 
+## 📂 What You'll Find Here
 
+- 🔧 **Infrastructure projects**
+- 🐳 Docker & self-hosted services
+- ⚙️ Automation scripts
+- 🧪 Labs & experiments
+- 📚 Technical documentation
+
+Everything here is **hands-on**, tested, broken, fixed, and improved.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nakwi&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakwi&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+## 📫 Contact
+
+💼 Open to **internships, projects & collaborations**  
+📩 Reach me on **LinkedIn** or via **GitHub**
+
+> _"Build. Break. Learn. Repeat."_

@@ -59,17 +59,7 @@ Je crois au **learning by doing** : chaque concept étudié est testé dans mon 
 ![GLPI](https://img.shields.io/badge/GLPI-6C5CE7?style=flat-square&logo=glpi&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 
-## 🔧 Ce que vous trouverez ici
-
-Mon GitHub reflète mon **parcours d'apprentissage** et mes **expérimentations pratiques** :
-
-- **Scripts d'automatisation infrastructure** – Outils Bash/PowerShell pour la configuration et le déploiement de systèmes
-- **Documentation homelab** – Schémas réseau, stacks de services, guides de configuration
-- **Solutions auto-hébergées** – Configurations Docker Compose pour divers services
-- **Monitoring & outils** – Dashboards personnalisés, systèmes de notification, collecte de données
-- **Projets annexes** – Bots Discord, automatisation web, utilitaires personnels
-
-Tout ce qui est ici a été construit pour **résoudre de vrais problèmes**, pas juste pour exposer du code. Si c'est dans mes repos, c'est que je l'utilise ou que j'en ai tiré quelque chose de concret.
+**résoudre de vrais problèmes**, pas juste pour exposer du code. Si c'est dans mes repos, c'est que je l'utilise ou que j'en ai tiré quelque chose de concret.
 
 ## 🚀 Au-delà de l'IT
 
@@ -79,20 +69,6 @@ J'applique la même **logique de résolution de problèmes** à d'autres domaine
 - **🖨️ Impression 3D** – Calibration matérielle, optimisation firmware, automatisation de workflows, prototypage pour cas d'usage pratiques
 
 Comprendre comment les systèmes fonctionnent, optimiser les processus et construire des solutions fiables.
-
-## 📊 Activité GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakwi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Statistiques GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakwi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Langages principaux" height="170" />
-</div>
-
-## 📫 Me contacter
-
-- **LinkedIn :** [ryan-corsyn-77b553235](https://linkedin.com/in/ryan-corsyn-77b553235)
-- **GitHub :** [@Nakwi](https://github.com/Nakwi)
-
-
 
 ---
 

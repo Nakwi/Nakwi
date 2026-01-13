@@ -98,6 +98,6 @@ Comprendre comment les systèmes fonctionnent, optimiser les processus et constr
 
 <div align="center">
 
-*"La meilleure façon de prédire l'avenir, c'est de le construire—un conteneur, un script, un fichier de config à la fois."*
+
 
 </div>

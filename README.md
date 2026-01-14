@@ -63,7 +63,7 @@ Je crois au **learning by doing** : chaque concept étudié est testé dans mon 
 
 ## 🚀 Au-delà de l'IT
 
-J'applique la même **logique de résolution de problèmes** à d'autres domaines techniques :
+Mes deux autres passions :
 
 - **🚁 Drones (FPV & Vidéo aérienne)** – Compréhension des systèmes embarqués, contrôleurs de vol, transmission sans fil, pipelines de traitement vidéo
 - **🖨️ Impression 3D** – Calibration matérielle, optimisation firmware, automatisation de workflows, prototypage pour cas d'usage pratiques
